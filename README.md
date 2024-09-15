@@ -14,7 +14,12 @@
 
 
 ### La partie session id ou code paire n'est pas encore prête. merci de modifier (Database et settings) puis téléchargez ça en zip et deployez sur panel. rien de compliqué !!
-## ⚠️ VEUILLEZ SUPPRIMER LE DOSSIER "SESSION" DEPUIS PANEL,PUIS DÉPLOYEZ. IL CONTIENT UNE ERREUR. cela va être résolu.!
+
+## Remarque, si la procédure du déploiement sur panel vous donne une erreur au moment de mettre votre numéro, veuillez supprimer le dossier " SESSION " au niveau de FILES. et tapez RESTART. et c'est bon.🐲
+
+## ⚠️ MODIFIEZ DATABASE ET SETTINGS, POUR VOS INFORMATIONS. NUMÉRO ET NOM. SINON VOUS POUVEZ LAISSER AINSI.
+
+## DÉPLOIEMENT SUR PANEL 3EME OPTION EN BAS.
 
 ### 1. <a href="https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK GOKU-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
@@ -125,7 +130,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Télécharger Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git https://github.com/Jeanparker100/PARKY-BUG-BOT
+> git https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD
 ```
 ```
 > cd TSH_BUG_GOKU-MD
@@ -142,7 +147,7 @@ npm i -g forever && forever index.js && forever save && forever logs
  <br> 
 <p align="center">
 <a href="https://Wa.me/+243976995779"><img src="https://img.shields.io/badge/Contact KÉVIN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaivDmh4NVieblSgij2d"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VanzxsyDOQIUiaLpTV1j"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@alvinblaste...13"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@alvinblaste...13" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
